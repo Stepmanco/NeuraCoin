@@ -66,4 +66,28 @@
             <p>Neura Coin è stato distribuito per garantire l'equità e promuovere la crescita della community.</p>
         </section>
         <section>
-            <h2>Ro
+            <h2>Roadmap</h2>
+            <ul>
+                <li><strong>Fase 1:</strong> Lancio e distribuzione iniziale del token</li>
+                <li><strong>Fase 2:</strong> Costruzione della community e coinvolgimento sui social media</li>
+                <li><strong>Fase 3:</strong> Sviluppo di integrazioni AI per l'analisi finanziaria e la gestione ecologica</li>
+                <li><strong>Fase 4:</strong> Collaborazioni con progetti eco-sostenibili per donazioni</li>
+                <li><strong>Fase 5:</strong> Espansione del progetto e nuove funzionalità</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Missione</h2>
+            <p>Neura Coin vuole dimostrare che le tecnologie blockchain e AI possono essere strumenti potenti per migliorare la sostenibilità ambientale e creare nuove opportunità di coinvolgimento e innovazione per le community online.</p>
+        </section>
+        <section class="social-links">
+            <h2>Unisciti alla Community</h2>
+            <p>Seguici sui nostri canali social per rimanere aggiornato:</p>
+            <a href="https://twitter.com/neuracoinmeme" target="_blank">Twitter: @neuracoinmeme</a> |
+            <a href="https://t.me/NeuraCoinMeme" target="_blank">Telegram: NeuraCoinMeme</a>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Neura Coin. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
